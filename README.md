@@ -1,2 +1,2 @@
 # MATclub
-A bot for the RerMAT club discord
+A bot for the FerMAT club discord
